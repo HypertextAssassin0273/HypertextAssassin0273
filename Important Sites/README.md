@@ -1,1 +1,1 @@
-- [Learning GitBash/GitHub](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+- [x] [Learning GitBash/GitHub](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
