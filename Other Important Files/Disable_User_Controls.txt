@@ -1,9 +1,0 @@
-1) Type "regedit" in windows search & then run as administrator
-2) Make sure that the below path matches the path in 'Registry Editor',otherwise re-write it as:
-
-Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
-
-3) Open "EnableLUA" & change the value in  "value data" from "1" to "0".
-4) Restart your computer (as windows pop-up message will appear for it).
-
-Note: This technique is tested only on Windows 10.
