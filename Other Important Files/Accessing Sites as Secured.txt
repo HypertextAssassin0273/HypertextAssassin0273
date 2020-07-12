@@ -1,9 +1,0 @@
-
-Steps to Secure Site:-
-
-On some sites, you can visit a more secure version of the page.
-
-1)Select the address bar.
-2)Delete http://, and enter https:// instead.
-3)If that doesn't work, contact the site owner to ask that they secure the site and your data with HTTPS.
-
