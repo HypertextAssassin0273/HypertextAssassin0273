@@ -7,4 +7,4 @@
 - [x] [C++ Templates Tutorial](http://www.cplusplus.com/doc/oldtutorial/templates)
 ## Miscellaneous Material:-
 - [x] [Amazon Affiliate Website Tutorial (Hindi)](https://www.youtube.com/playlist?list=PLNh2fM2PO719EXwlFxfAGzVw2cGEl3xoC)
-- [x] [Learning Windows API (Win32 application)](https://www.xoax.net/cpp/crs/win32/index.php)
+- [x] [Windows API/ Win32 Application Tutorial (Visual Studio)](https://www.xoax.net/cpp/crs/win32/index.php)
