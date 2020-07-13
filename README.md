@@ -1,4 +1,3 @@
-# Hola Amigos!!! 🖐️ 🖐️ 👋
 <!--
 **HypertextAssassin0273/HypertextAssassin0273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Quick Links to All Important Repos
 ### My Programming Collection:-
 - Set of solutions for the Online Judge:  [UVA Solutions](https://github.com/HypertextAssassin0273/UVA-Solutions)
 - Data Structures For The Mike Mirzayanov Course:  [Mik Mirzayanov- DS & Algorithm Implementation](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
