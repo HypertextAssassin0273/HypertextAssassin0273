@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### My Programming Collection:-
 - [_Set of solutions for the Online Judge (UVA Solutions)_](https://github.com/HypertextAssassin0273/UVA-Solutions)
-- [_Data Structures by Mike Mirzayanov_](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
+- [_Data Structures_](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
 - [_General Speed Programming_](https://github.com/HypertextAssassin0273/Spectre)
 - [_Collection of C programs_](https://github.com/HypertextAssassin0273/Console_based_C-Programs)
 - [_Collection of C++ programs_](https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs)
