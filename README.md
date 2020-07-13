@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - [_C/C++ programs (win32 based)_](https://github.com/HypertextAssassin0273/Win32_based_programs)
 ### Miscellaneous Collection:-
 - [_Important Learning material on Sites_](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
-- [_Important Files (related to Windows, cmd-prompt & Website hacks)_](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Files)
+- [_Important Files (related to Windows & cmd-prompt hacks)_](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Files)
