@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Programming Collection:-
-- Set of solutions for the Online Judge:  [UVA Solutions](https://github.com/HypertextAssassin0273/UVA-Solutions)
-- Data Structures For The Mike Mirzayanov Course:  [Mik Mirzayanov- DS & Algorithm Implementation](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
-- General Speed Programming:  [Spectre](https://github.com/HypertextAssassin0273/Spectre)
-- Collection of C programs:  [C_Programs](https://github.com/HypertextAssassin0273/Console_based_C-Programs)
-- Collection of C++ programs:  [Cpp_Programs](https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs)
-- Collection of C/C++ programs (win32 based):  [Win32_Programs](https://github.com/HypertextAssassin0273/Win32_based_programs)
+- _Set of solutions for the Online Judge_:  [UVA Solutions](https://github.com/HypertextAssassin0273/UVA-Solutions)
+- _Data Structures For The Mike Mirzayanov Course_:  [Mik Mirzayanov- DS & Algorithm Implementation](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
+- _General Speed Programming_:  [Spectre](https://github.com/HypertextAssassin0273/Spectre)
+- _Collection of C programs_:  [C_Programs](https://github.com/HypertextAssassin0273/Console_based_C-Programs)
+- _Collection of C++ programs_:  [Cpp_Programs](https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs)
+- _Collection of C/C++ programs (win32 based)_:  [Win32_Programs](https://github.com/HypertextAssassin0273/Win32_based_programs)
 ### Miscellaneous Collection:-
 - Collection of important Learning material on Sites:  [Important Sites](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
 - Collection of important Files (related to Windows, cmd-prompt & Website hacks):  [Important Files](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Files)
