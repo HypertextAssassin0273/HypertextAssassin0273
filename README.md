@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - [_C++ language programs_](https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs)
 - [_C/C++ language programs (win32 based)_](https://github.com/HypertextAssassin0273/Win32_based_programs)
 - [_Go language Programs_](https://github.com/HypertextAssassin0273/go-lang)
-- [_C++ language Pattern Programs_](https://github.com/HypertextAssassin0273/CppPatterns-Patterns)
 ### Miscellaneous Collection:-
 - [_Important Learning material on Sites_](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
 - [_Important Files (related to Windows & cmd-prompt hacks)_](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Files)
