@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# QUICK LINKS
+## Quick Links
 ### My Programming Collection:-
 - Set of solutions for the Online Judge:  [UVA Solutions](https://github.com/HypertextAssassin0273/UVA-Solutions)
 - Data Structures For The Mike Mirzayanov Course:  [Mik Mirzayanov- DS & Algorithm Implementation](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
