@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 ### Miscellaneous Collection:-
 - [_Important Learning material on Sites_](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
 - [_Important Files (related to Windows & cmd-prompt hacks)_](https://github.com/HypertextAssassin0273/Important_Files)
+- [Free Educational Resources](https://github.com/HypertextAssassin0273/Free-Educational-Resources)
+- [](https://github.com/HypertextAssassin0273/Projects)
+- [C++ Cheat Sheet for ACM ICPC](https://github.com/HypertextAssassin0273/cheat-sheet)
