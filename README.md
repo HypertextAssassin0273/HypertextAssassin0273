@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=HypertextAssassin0273) 
+<a href="#"><img src="https://badges.pufler.dev/visits/HypertextAssassin0273/HypertextAssassin0273"></a>
 ### Programming Collection:-
 - [_Set of solutions for the Online Judge (UVA Solutions)_](https://github.com/HypertextAssassin0273/UVA-Solutions)
 - [_Data Structures in C++_](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
