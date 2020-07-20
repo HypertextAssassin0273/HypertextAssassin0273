@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - [_Free Educational Resources_](https://github.com/HypertextAssassin0273/Free-Educational-Resources)
 - [_Sample Project Ideas_](https://github.com/HypertextAssassin0273/Projects)
 #### Language Skills:
-![](logos/c_64x64.png)![](logos/cpp_64x64.png)![](logos/html_64x64.png)![](logos/go_64x64.png)
+![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/c_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/cpp_64x64.png)![](logos/html_64x64.png)![](logos/go_64x64.png)
