@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=HypertextAssassin0273)
+# 
+![Github stats](https://github-readme-stats.vercel.app/api?username=HypertextAssassin0273&show_icons=true)![Profile views](https://gpvc.arturio.dev/HypertextAssassin0273)
 ### Programming Collection:-
 - [_Set of solutions for the Online Judge (UVA Solutions)_](https://github.com/HypertextAssassin0273/UVA-Solutions)
 - [_Data Structures in C++_](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
