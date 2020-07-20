@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#"><img src="https://badges.pufler.dev/visits/HypertextAssassin0273/HypertextAssassin0273"></a>
 ![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/particles_background.png)
+<a href="#"><img src="https://badges.pufler.dev/visits/HypertextAssassin0273/HypertextAssassin0273"></a>
 #
 ### Programming Collection:-
 - [_Set of solutions for the Online Judge (UVA Solutions)_](https://github.com/HypertextAssassin0273/UVA-Solutions)
