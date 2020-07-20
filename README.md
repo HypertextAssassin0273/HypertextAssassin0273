@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 <a href="#"><img src="https://badges.pufler.dev/visits/HypertextAssassin0273/HypertextAssassin0273"></a>
 ![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/particles_background.png) \
-🔭 I’m currently working on: [2D Game OOP Project](https://github.com/users/HypertextAssassin0273/projects/3) \
-📚 I’m currently learning: Win32 application,C++11/14/17,SFML Library in Cpp & HTML \
-🤔 I’m looking for help: to use SFML Library features in Win32 application (so that I can have complete access to keyboard & mouse)
+🔭 _**I’m currently working on:**_ [2D Game OOP Project](https://github.com/users/HypertextAssassin0273/projects/3) \
+📚 _**I’m currently learning:**_ Win32 application,C++11/14/17,SFML Library in Cpp & HTML \
+🤔 _**I’m looking for help:**_ to use SFML Library features in Win32 application (so that I can have complete access to keyboard & mouse)
 #
-### Programming Collection:-
+### Programming Collection:
 - [_Set of solutions for the Online Judge (UVA Solutions)_](https://github.com/HypertextAssassin0273/UVA-Solutions)
 - [_Data Structures in C++_](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
 - [_General Speed Programming_](https://github.com/HypertextAssassin0273/Spectre)
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 - [_C++ Cheat Sheet for ACM ICPC_](https://github.com/HypertextAssassin0273/cheat-sheet)
 - [_Go Practice Programs_](https://github.com/HypertextAssassin0273/go-lang)
 #
-### Miscellaneous Collection:-
+### Miscellaneous Collection:
 - [_Important Learning Material on Sites_](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
 - [_Important Files (Related to Windows & cmd-prompt Hacks)_](https://github.com/HypertextAssassin0273/Important_Files)
 - [_Free Educational Resources_](https://github.com/HypertextAssassin0273/Free-Educational-Resources)
 - [_Sample Project Ideas_](https://github.com/HypertextAssassin0273/Projects)
 #
-#### Language Skills:
+### Language Skills:
 ![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/c_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/cpp_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/html_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/markdown_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/go_64x64.png)
