@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 <a href="#"><img src="https://badges.pufler.dev/visits/HypertextAssassin0273/HypertextAssassin0273"></a>
 ![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/particles_background.png)
-- 🔭 I’m currently working on: [2D Game OOP Project](https://github.com/users/HypertextAssassin0273/projects/3)
-- 🌱 I’m currently learning: Win32 application,C++11/14/17,SFML Library in Cpp & HTML
-- 🤔 I’m looking for help: to use SFML Library features in Win32 application (so that I can have complete access to keyboard & mouse)
+- [] 🔭 I’m currently working on: [2D Game OOP Project](https://github.com/users/HypertextAssassin0273/projects/3)
+- [] 🌱 I’m currently learning: Win32 application,C++11/14/17,SFML Library in Cpp & HTML
+- [] 🤔 I’m looking for help: to use SFML Library features in Win32 application (so that I can have complete access to keyboard & mouse)
 #
 ### Programming Collection:-
 - [_Set of solutions for the Online Judge (UVA Solutions)_](https://github.com/HypertextAssassin0273/UVA-Solutions)
