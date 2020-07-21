@@ -5,10 +5,18 @@
 - [x] [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown)
 #
 ### C/C++ Material:-
-- **Articles:**
+- **C:**
+    - [X] [Learning C (Saurabh Shukla, Hindi)](https://www.youtube.com/user/saurabhexponent1/playlists?view=50&sort=dd&shelf_id=2)
     - [x] [Function Pointers in C Struct](https://www.codeproject.com/Tips/800474/Function-Pointer-in-C-Struct)
+- **C++:**
+    - [X] [Learning C++ (Saurabh Shukla, Hindi)](https://www.youtube.com/channel/UCD-scAE4ju78dld1kpcsQfQ/playlists)
+  - [X] [Complete C++ Tutorial](http://www.cplusplus.com/doc/tutorial)
+  - [X] [Templates](http://www.cplusplus.com/doc/oldtutorial/templates)
+  - [X] [Namespaces](http://www.cplusplus.com/doc/oldtutorial/namespaces)
+  - [X] [Type Casting](http://www.cplusplus.com/doc/oldtutorial/typecasting)
   - [x] [5 different ways to find length of an array in C++](https://www.techiedelight.com/find-lt)
-  - [x] [C++ Templates Tutorial](http://www.cplusplus.com/doc/oldtutorial/templates)
+- **Data Structures:**
+    - [X] [Learning Data Structures (Saurabh Shukla, Hindi)](https://www.youtube.com/channel/UCu4ztYtW-Bg1KIfcLAULtVQ/playlists)
 - **SFML Library:**
   - [x] [SFML v2.4 Beginner's Tutorial](https://www.youtube.com/playlist?list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9)
 - **Windows API/ Win32 Application:**
