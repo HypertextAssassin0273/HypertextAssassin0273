@@ -9,7 +9,7 @@
 - [x] [C++ Templates Tutorial](http://www.cplusplus.com/doc/oldtutorial/templates)
 #
 ### Miscellaneous Material:-
-- [x] [Tutorial for Creating Amazon Affiliate Website (Hindi)](https://www.youtube.com/playlist?list=PLNh2fM2PO719EXwlFxfAGzVw2cGEl3xoC)
+- [x] [Tutorial for Creating Amazon Affiliate Website (Hindi/Urdu)](https://www.youtube.com/playlist?list=PLNh2fM2PO719EXwlFxfAGzVw2cGEl3xoC)
 - [x] [Windows API/ Win32 Application Tutorial in C++ (Visual Studio)](https://www.xoax.net/cpp/crs/win32/index.php)
 - [x] [Learning Windows API/ Win32 Application in C++](https://www.youtube.com/playlist?list=PLWzp0Bbyy_3i750dsUj7yq4JrPOIUR_NK)
 #
