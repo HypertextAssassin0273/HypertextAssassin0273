@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🔭 _**I’m currently working on:**_ [2D Game (OOP Project)](https://github.com/users/HypertextAssassin0273/projects/3) \
 📚 _**I’m currently learning:**_ C++11/14/17,Win32 application,SFML Library in Cpp & HTML \
 🤔 _**I’m looking for help:**_ To use SFML Library features in Win32 application \
-💬 _**Contact me through:**_ [My personal mail](mailto:shazaibahmed0000@gmail.com) or you can create an issue or open a pull request on any repo
+💬 _**Contact me through:**_ [My personal mail](mailto:shazaibahmed0000@gmail.com) or you can create an issue or open a pull request on any repo with your GitHub Profile Name
 #
 ### Programming Collection:
 - [_Set of solutions for the Online Judge (UVA Solutions)_](https://github.com/HypertextAssassin0273/UVA-Solutions)
