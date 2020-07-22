@@ -14,8 +14,8 @@
     - [X] [Templates](http://www.cplusplus.com/doc/oldtutorial/templates)
     - [X] [Namespaces](http://www.cplusplus.com/doc/oldtutorial/namespaces)
     - [X] [Type Casting](http://www.cplusplus.com/doc/oldtutorial/typecasting)
-    - [x] [Learning Modern & Advance Cpp (Bo Qian, C++11)]
-    - [x] [Learning Modern & Advance Cpp (Rupesh Yadav, C++11/C++14)]
+    - [x] [Learning Modern & Advance Cpp (Bo Qian, C++11)](https://www.youtube.com/user/BoQianTheProgrammer/playlists)
+    - [x] [Learning Modern & Advance Cpp (Rupesh Yadav, C++11/C++14)](https://www.youtube.com/c/CppNuts/playlists)
     - [x] [5 different ways to find length of an array in C++](https://www.techiedelight.com/find-lt)
 - **Data Structures:**
     - [X] [Learning Data Structures (Saurabh Shukla, Hindi/Urdu)](https://www.youtube.com/channel/UCu4ztYtW-Bg1KIfcLAULtVQ/playlists)
