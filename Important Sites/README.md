@@ -10,10 +10,7 @@
     - [x] [Function Pointers in C Struct](https://www.codeproject.com/Tips/800474/Function-Pointer-in-C-Struct)
 - **C++ Language:**
     - [X] [Learning C++ (Saurabh Shukla, Hindi/Urdu)](https://www.youtube.com/channel/UCD-scAE4ju78dld1kpcsQfQ/playlists)
-    - [X] [Complete C++ Tutorial](http://www.cplusplus.com/doc/tutorial)
-      - [Templates](http://www.cplusplus.com/doc/oldtutorial/templates)
-      - [Namespaces](http://www.cplusplus.com/doc/oldtutorial/namespaces)
-      - [Type Casting](http://www.cplusplus.com/doc/oldtutorial/typecasting)
+    - [X] [Complete C++ Tutorial](http://www.cplusplus.com/doc/tutorial) (Additional: [Templates](http://www.cplusplus.com/doc/oldtutorial/templates) - [Namespaces](http://www.cplusplus.com/doc/oldtutorial/namespaces) - [Type Casting](http://www.cplusplus.com/doc/oldtutorial/typecasting) )
     - [x] [Learning Modern & Advance Cpp (Bo Qian, C++11)](https://www.youtube.com/user/BoQianTheProgrammer/playlists)
     - [x] [Learning Modern & Advance Cpp (Rupesh Yadav, C++11/C++14)](https://www.youtube.com/c/CppNuts/playlists)
     - [x] [5 different ways to find length of an array in C++](https://www.techiedelight.com/find-lt)
