@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 (temporarily paused learning: Win32 application) \
 🤔 _**I’m looking for help:**_ To use SFML Library features in Win32 application \
 💬 _**Contact me through:**_ [My personal mail](mailto:shazaibahmed0000@gmail.com) or you can create an issue or open a pull  & GitHub Pagesrequest on any repo with your GitHub Profile Name
-#
+
+---
 ### Programming Collection:
 - [_Set of solutions for the Online Judge (UVA Solutions)_](https://github.com/HypertextAssassin0273/UVA-Solutions)
 - [_Data Structures in C++_](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
