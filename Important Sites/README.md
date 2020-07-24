@@ -1,9 +1,13 @@
 ### Git/GitHub Material:-
-- [x] [Learning GitBash & GitHub](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+- [x] [Learning GitBash & GitHub](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx) \
 - [x] [Managing GitHub Projects](https://youtu.be/ff5cBkPg-bQ)
-- [x] [Basic Writing & Formatting Syntax (Markdown)](https://docs.github.com/en/enterprise/2.18/user/github/writing-on-github/basic-writing-and-formatting-syntax)
-- [x] [Syntax Guide (Markdown)](https://guides.github.com/features/mastering-markdown)
 - [x] [Create Useful .gitignore Files](https://www.toptal.com/developers/gitignore)
+- **Markdown Language:**
+    - [x] [Basic Writing & Formatting Syntax (Markdown)](https://docs.github.com/en/enterprise/2.18/user/github/writing-on-github/basic-writing-and-formatting-syntax)
+    - [x] [Github Syntax Guide (Markdown)](https://guides.github.com/features/mastering-markdown)
+- **GitHub Pages:**
+    - [x] [GitHub-Pages Guide](https://docs.github.com/en/github/working-with-github-pages)
+    - [x] [Learning Jekyll Framework (GitHub-Pages)](https://jekyllrb.com/docs/)
 #
 ### C/C++ Material:-
 - **C Language:**
