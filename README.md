@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - [_Go Practice Programs_](https://github.com/HypertextAssassin0273/go-lang)
 #
 ### Miscellaneous Collection:
-- [_Important Learning Material on Sites_](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
+- [_Important Sites_](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
 - [_Important Files (Related to Windows & cmd-prompt Hacks)_](https://github.com/HypertextAssassin0273/Important_Files)
 - [_Free Educational Resources_](https://github.com/HypertextAssassin0273/Free-Educational-Resources)
 - [_Sample Project Ideas_](https://github.com/HypertextAssassin0273/Projects)
