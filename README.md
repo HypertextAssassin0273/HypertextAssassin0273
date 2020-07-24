@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 - [_Go Practice Programs_](https://github.com/HypertextAssassin0273/go-lang)
 #
 ### Miscellaneous Collection:
-- [_Important Sites_](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
-- [_Important Files (Related to Windows & cmd-prompt Hacks)_](https://github.com/HypertextAssassin0273/Important_Files)
+- [_Important Sites (i.e. Tools, My Learning-Resources)_](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
+- [_Important Files (i.e. Windows & Command-Prompt Hacks)_](https://github.com/HypertextAssassin0273/Important_Files)
 - [_Free Educational Resources_](https://github.com/HypertextAssassin0273/Free-Educational-Resources)
 - [_Sample Project Ideas_](https://github.com/HypertextAssassin0273/Projects)
 #
 ### Language Skills:
-![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/c_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/cpp_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/html_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/markdown_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/go_64x64.png)
+![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/c_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/cpp_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/html_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/markdown_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/go_64x64.png),learning resources
