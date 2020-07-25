@@ -22,20 +22,20 @@ Here are some ideas to get you started:
 
 ---
 ### Programming Collection:
-- [_Set of solutions for the Online Judge (UVA Solutions)_](https://github.com/HypertextAssassin0273/UVA-Solutions)
-- [_Data Structures in C++_](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
-- [_General Speed Programming_](https://github.com/HypertextAssassin0273/Spectre)
-- [_Useful C Programs_](https://github.com/HypertextAssassin0273/Console_based_C-Programs)
-- [_Useful C++ Programs_](https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs)
-- [_Win32 based Programs_](https://github.com/HypertextAssassin0273/Win32_based_programs)
-- [_C++ Cheat Sheet for ACM ICPC_](https://github.com/HypertextAssassin0273/cheat-sheet)
-- [_Go Practice Programs_](https://github.com/HypertextAssassin0273/go-lang)
+- [**_Set of solutions for the Online Judge (UVA Solutions)_**](https://github.com/HypertextAssassin0273/UVA-Solutions)
+- [**_Data Structures in C++_**](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
+- [**_General Speed Programming_**](https://github.com/HypertextAssassin0273/Spectre)
+- [**_Useful C Programs_**](https://github.com/HypertextAssassin0273/Console_based_C-Programs)
+- [**_Useful C++ Programs_**](https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs)
+- [**_Win32 based Programs_**](https://github.com/HypertextAssassin0273/Win32_based_programs)
+- [**_C++ Cheat Sheet for ACM ICPC_**](https://github.com/HypertextAssassin0273/cheat-sheet)
+- [**_Go Practice Programs_**](https://github.com/HypertextAssassin0273/go-lang)
 #
 ### Miscellaneous Collection:
-- [_Important Sites (i.e. Tools, My Learning-Resources)_](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
-- [_Important Files (i.e. Windows & Command-Prompt Hacks)_](https://github.com/HypertextAssassin0273/Important_Files)
-- [_Free Educational Resources_](https://github.com/HypertextAssassin0273/Free-Educational-Resources)
-- [_Sample Project Ideas_](https://github.com/HypertextAssassin0273/Projects)
+- [**_Important Sites (i.e. Tools, My Learning-Resources)_**](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
+- [**_Important Files (i.e. Windows & Command-Prompt Hacks)_**](https://github.com/HypertextAssassin0273/Important_Files)
+- [**_Free Educational Resources_**](https://github.com/HypertextAssassin0273/Free-Educational-Resources)
+- [**_Sample Project Ideas_**](https://github.com/HypertextAssassin0273/Projects)
 #
 ### Language Skills:
 ![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/c_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/cpp_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/html_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/markdown_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/go_64x64.png)
