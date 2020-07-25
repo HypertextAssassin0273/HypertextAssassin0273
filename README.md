@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 📚 _**I’m currently learning:**_ C++11/14/17,SFML Library in Cpp, HTML,JavaScript & Jekyll for Github Pages, \
 (temporarily paused learning: Win32 application) \
 🤔 _**I’m looking for help:**_ To use SFML Library features in Win32 application \
-💬 _**Contact me through:**_ [My personal mail](mailto:shazaibahmed0000@gmail.com) or you can create an issue or open a pull  & GitHub Pagesrequest on any repo with your GitHub Profile Name
+💬 _**Contact me through:**_ [My personal mail](mailto:shazaibahmed0000@gmail.com) or you can create an issue or open a pull request on any repo with your GitHub Profile Name
 
 ---
 ### Programming Collection:
