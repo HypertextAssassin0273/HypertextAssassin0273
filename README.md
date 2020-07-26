@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - [**_Useful C++ Programs_**](https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs)
 - [**_Win32 based Programs_**](https://github.com/HypertextAssassin0273/Win32_based_programs)
 - [**_C++ Cheat Sheet for ACM ICPC_**](https://github.com/HypertextAssassin0273/cheat-sheet)
-- [**_Go Practice Programs_**](https://github.com/HypertextAssassin0273/go-lang)
 #
 ### Miscellaneous Collection:
 - [**_Important Sites (i.e. Tools, My Learning-Resources)_**](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
