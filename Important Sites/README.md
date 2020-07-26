@@ -1,12 +1,3 @@
----
-working on it...
-# Tech
-    
-* [requests] - For sending requests to 'get' the html page 
-* [requests-html] - To access the page and parse the HTML
-* [pip3] - Your neighbor-hood friendly package manager for Python3
-
----
 ### Git/GitHub Material:-
 - **Markdown Language:**
     - [x] [Basic Writing & Formatting Syntax (Markdown)](https://docs.github.com/en/enterprise/2.18/user/github/writing-on-github/basic-writing-and-formatting-syntax)
