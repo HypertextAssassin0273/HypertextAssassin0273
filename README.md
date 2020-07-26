@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#"><img src="https://badges.pufler.dev/visits/HypertextAssassin0273/HypertextAssassin0273"></a> \
+<a href="#"><img src="https://badges.pufler.dev/visits/HypertextAssassin0273/HypertextAssassin0273"></a>
 ![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/particles_background.png) \
 🔭 _**I’m currently working on:**_ [**2D Game (OOP Project)**](https://github.com/users/HypertextAssassin0273/projects/3) & GitHub Pages \
 📚 _**I’m currently learning:**_ C++11/14/17,SFML Library in Cpp, HTML,JavaScript & Jekyll for Github Pages, \
