@@ -5,7 +5,7 @@
 - **GitHub Pages:**
     - [x] [GitHub-Pages Guide](https://docs.github.com/en/github/working-with-github-pages)
     - [x] [Learning Jekyll Framework (GitHub-Pages)](https://jekyllrb.com/docs/)
-    - [x] [cayman](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fgithub.com%2Fpages-themes%2Fcayman)
+    - [x] [Customizing Cayman Theme](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fgithub.com%2Fpages-themes%2Fcayman)
 - **Others:**
     - [x] [Learning GitBash & GitHub](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
     - [x] [Managing GitHub Projects](https://youtu.be/ff5cBkPg-bQ)
