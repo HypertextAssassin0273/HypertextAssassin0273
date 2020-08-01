@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - [**_Useful C Programs_**](https://github.com/HypertextAssassin0273/Console_based_C-Programs)
 - [**_Useful C++ Programs_**](https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs)
 - [**_Win32 based Programs_**](https://github.com/HypertextAssassin0273/Win32_based_programs)
+- [**_SFML based Programs_**](https://github.com/HypertextAssassin0273/SFML_based_programs)
 - [**_C++ Cheat Sheet for ACM ICPC_**](https://github.com/HypertextAssassin0273/cheat-sheet)
 #
 ### Miscellaneous Collection:
