@@ -4,7 +4,7 @@
     - [x] [Github Syntax Guide (Markdown)](https://guides.github.com/features/mastering-markdown)
 - **GitHub Pages:**
     - [x] [GitHub-Pages Guide](https://docs.github.com/en/github/working-with-github-pages)
-    - [x] [Learning Jekyll Framework (GitHub-Pages)](https://jekyllrb.com/docs/)
+    - [x] [Learning Jekyll Framework (GitHub-Pages)](https://jekyllrb.com/docs)
     - [x] [Customizing Cayman Theme](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fgithub.com%2Fpages-themes%2Fcayman)
 - **Others:**
     - [x] [Learning GitBash & GitHub](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
@@ -30,9 +30,9 @@
   - [x] [Learning Windows API/ Win32 Application in C++](https://www.youtube.com/playlist?list=PLWzp0Bbyy_3i750dsUj7yq4JrPOIUR_NK)
 #
 ### Web Development:-
-- [x] [w3school-learn anything in web development](https://www.w3schools.com)
-- [x] [Code Snippets for HTML, CSS & JavaScript](https://www.w3schools.com/howto/default.asp)
-- [x] [Icons by FontAwesome (CSS/JavaScript)](https://fontawesome.com/v4.7.0/icons/)
+- [x] [W3School-Learn anything in web development](https://www.w3schools.com)
+- [x] [Useful Code Snippets (HTML/CSS/JavaScript)](https://www.w3schools.com/howto/default.asp)
+- [x] [Icons by FontAwesome (CSS/JavaScript)](https://fontawesome.com/v4.7.0/icons)
 #
 ### Miscellaneous Material:-
 - [x] [Tutorial for Creating Amazon Affiliate Website (Hindi/Urdu)](https://www.youtube.com/playlist?list=PLNh2fM2PO719EXwlFxfAGzVw2cGEl3xoC)
