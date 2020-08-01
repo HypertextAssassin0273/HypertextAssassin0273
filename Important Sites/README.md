@@ -11,7 +11,6 @@
     - [x] [Managing GitHub Projects](https://youtu.be/ff5cBkPg-bQ)
     - [x] [Create Useful .gitignore Files](https://www.toptal.com/developers/gitignore)
 #
-
 ### C/C++ Material:-
 - **C Language:**
     - [X] [Learning C (Saurabh Shukla, Hindi/Urdu)](https://www.youtube.com/user/saurabhexponent1/playlists?view=50&sort=dd&shelf_id=2)
@@ -29,6 +28,11 @@
 - **Windows API/ Win32 Application:**
   - [x] [Windows API/ Win32 Application Tutorial in C++ (Visual Studio)](https://www.xoax.net/cpp/crs/win32/index.php)
   - [x] [Learning Windows API/ Win32 Application in C++](https://www.youtube.com/playlist?list=PLWzp0Bbyy_3i750dsUj7yq4JrPOIUR_NK)
+#
+### Web Development:-
+- [x] [w3school-learn anything in web development](https://www.w3schools.com)
+- [x] [Code Snippets for HTML, CSS & JavaScript](https://www.w3schools.com/howto/default.asp)
+- [x] [Icons by FontAwesome (CSS/JavaScript)](https://fontawesome.com/v4.7.0/icons/)
 #
 ### Miscellaneous Material:-
 - [x] [Tutorial for Creating Amazon Affiliate Website (Hindi/Urdu)](https://www.youtube.com/playlist?list=PLNh2fM2PO719EXwlFxfAGzVw2cGEl3xoC)
