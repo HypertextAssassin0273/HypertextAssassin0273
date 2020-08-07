@@ -35,6 +35,9 @@
 - [x] [Useful Code Snippets (HTML/CSS/JavaScript)](https://www.w3schools.com/howto/default.asp)
 - [x] [Icons by FontAwesome (CSS/JavaScript)](https://fontawesome.com/v4.7.0/icons)
 #
+### Microsoft Office:
+- [x] [Microsoft Office Complete Tutorial](https://www.youtube.com/c/KevinStratvert/playlists?view=50&flow=grid&shelf_id=15)
+- [x] [PowerPoint Expert](https://www.youtube.com/channel/UCaEPKLsvtAZBtGtG5ZKwVWg)
+#
 ### Miscellaneous Material:-
 - [x] [Tutorial for Creating Amazon Affiliate Website (Hindi/Urdu)](https://www.youtube.com/playlist?list=PLNh2fM2PO719EXwlFxfAGzVw2cGEl3xoC)
-- [x] [Microsoft Office 365 Complete Tutorial (Kevin Stratvert)](https://www.youtube.com/c/KevinStratvert/playlists?view=50&flow=grid&shelf_id=15)
