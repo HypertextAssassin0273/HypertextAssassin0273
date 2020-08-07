@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ### Miscellaneous Collection:
 - [**_Important Sites (i.e. Tools, My Learning-Resources)_**](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
 - [**_Important Files (i.e. Windows & Command-Prompt Hacks)_**](https://github.com/HypertextAssassin0273/Important_Files)
+- [**_Unique PowerPoint Presentations_**](https://github.com/HypertextAssassin0273/Unique_PowerPoint_Presentations)
 - [**_Free Educational Resources_**](https://github.com/HypertextAssassin0273/Free-Educational-Resources)
 - [**_Sample Project Ideas_**](https://github.com/HypertextAssassin0273/Projects)
 #
