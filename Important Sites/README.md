@@ -5,7 +5,6 @@
 - **GitHub Pages:**
     - [x] [GitHub-Pages Guide](https://docs.github.com/en/github/working-with-github-pages)
     - [x] [Learning Jekyll Framework](https://jekyllrb.com/docs)
-    - [x] [Customizing Cayman Theme](https://github.com/pages-themes/cayman)
     - [x] [Create Data-Science Portfolio](https://www.dataoptimal.com/github-data-science-portfolio)
 - **Others:**
     - [x] [Learning GitBash & GitHub](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
