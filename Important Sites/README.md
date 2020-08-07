@@ -4,7 +4,7 @@
     - [x] [Github Syntax Guide (Markdown)](https://guides.github.com/features/mastering-markdown)
 - **GitHub Pages:**
     - [x] [GitHub-Pages Guide](https://docs.github.com/en/github/working-with-github-pages)
-    - [x] [Learning Jekyll Framework (GitHub-Pages)](https://jekyllrb.com/docs)
+    - [x] [Learning Jekyll Framework](https://jekyllrb.com/docs)
     - [x] [Customizing Cayman Theme](https://github.com/pages-themes/cayman)
     - [x] [Create Data-Science Portfolio](https://www.dataoptimal.com/github-data-science-portfolio)
 - **Others:**
