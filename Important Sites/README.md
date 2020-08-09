@@ -40,4 +40,4 @@
 #
 ### Miscellaneous Material:-
 - [x] [Tutorial for Creating Amazon Affiliate Website (Hindi/Urdu)](https://www.youtube.com/playlist?list=PLNh2fM2PO719EXwlFxfAGzVw2cGEl3xoC)
-- [x] [Multi-Cloud Networking Guidelines](https://community.aviatrix.com/t/y4hh4ml/ace-associate-self-paced-learning-guidelines)
+- [x] [Multi-Cloud Networking Guidelines (Aviatrix)](https://community.aviatrix.com/t/y4hh4ml/ace-associate-self-paced-learning-guidelines)
