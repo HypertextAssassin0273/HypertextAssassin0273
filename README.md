@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/particles_background.png) \
 🔭 _**I’m currently working on:**_ [**2D Game (OOP Project)**](https://github.com/users/HypertextAssassin0273/projects/3) & [**GitHub Pages (Portfolio)**](https://github.com/HypertextAssassin0273/HypertextAssassin0273.github.io) \
 📚 _**I’m currently learning:**_ C++11/14/17,SFML Library in Cpp, javascript for web development & Win32 application\
-🤔 _**I’m looking for help:**_ To use only SFML Library based window (means I dont want console application running overtime in background))\
+🤔 _**I’m looking for help:**_ To use only SFML Library based window & I dont want console application running overtime in background)\
 💬 _**Contact me through:**_ [**My personal mail**](mailto:shazaibahmed0000@gmail.com) or you can create an issue or open a pull request on any repo with your GitHub Profile Name
 
 ---
