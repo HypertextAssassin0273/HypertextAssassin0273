@@ -38,12 +38,19 @@ Here are some ideas to get you started:
 </details>  
 
 #
-### Miscellaneous Collection:
-- [**_Important Sites (i.e. Tools, My Learning-Resources)_**](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
-- [**_Important Files (i.e. Windows & Command-Prompt Hacks)_**](https://github.com/HypertextAssassin0273/Important_Files)
-- [**_Unique PowerPoint Presentations_**](https://github.com/HypertextAssassin0273/Unique_PowerPoint_Presentations)
-- [**_Free Educational Resources_**](https://github.com/HypertextAssassin0273/Free-Educational-Resources)
-- [**_Sample Project Ideas_**](https://github.com/HypertextAssassin0273/Projects)
+
+<details>
+  <summary><b>Miscellaneous Collection:</b></summary>
+  <br>
+  <ul>
+    <li><a href="https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites"><b><i>Important Sites (i.e. Tools, My Learning-Resources)</i></b></a></li>
+    <li><a href="https://github.com/HypertextAssassin0273/Important_Files"><b><i>Important Files (i.e. Windows & Command-Prompt Hacks)</i></b></a></li>
+    <li><a href="https://github.com/HypertextAssassin0273/Unique_PowerPoint_Presentations"><b><i>Unique PowerPoint Presentations</i></b></a></li>
+    <li><a href="https://github.com/HypertextAssassin0273/Free-Educational-Resources"><b><i></i>Free Educational Resources</b></a></li>
+    <li><a href="https://github.com/HypertextAssassin0273/Projects"><b><i>Sample Project Ideas</i></b></a></li>
+  </ul>
+</details>
+
 #
 ### Language Skills:
 ![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/c_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/cpp_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/html_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/css_64x64.png) &nbsp; ![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/javascript_64x64.png) ![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/markdown_64x64.png)
