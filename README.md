@@ -35,7 +35,8 @@ Here are some ideas to get you started:
     <li><a href= "https://github.com/HypertextAssassin0273/cheat-sheet"><b><i>C++ Cheat Sheet for ACM ICPC</i></b></a></li>
   </ul>
 </details>  
-<hr>
+
+#
 <details>
   <summary><b>Miscellaneous Collection</b></summary>
   <br>
@@ -47,7 +48,8 @@ Here are some ideas to get you started:
     <li><a href="https://github.com/HypertextAssassin0273/Projects"><b><i>Sample Project Ideas</i></b></a></li>
   </ul>
 </details>
-<hr>
+
+#
 <details>
   <summary><b>Language Skills</b></summary>
   <br>
