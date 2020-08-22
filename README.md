@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 📚 _**I’m currently learning:**_ C++11/14/17,SFML Library in Cpp, javascript for web development & Win32 application\
 🤔 _**I’m looking for help:**_ To use only SFML Library based window with no console application running overtime in background\
 💬 _**Contact me through:**_ [**My Personal Mail**](mailto:shazaibahmed0000@gmail.com) or you can follow me on any of the links provided in [**My Portfolio**](https://hypertextassassin0273.github.io)
-
 ---
 
 <details>
@@ -36,9 +35,7 @@ Here are some ideas to get you started:
     <li><a href= "https://github.com/HypertextAssassin0273/cheat-sheet"><b><i>C++ Cheat Sheet for ACM ICPC</i></b></a></li>
   </ul>
 </details>  
-
-#
-
+<hr>
 <details>
   <summary><b>Miscellaneous Collection</b></summary>
   <br>
@@ -50,9 +47,7 @@ Here are some ideas to get you started:
     <li><a href="https://github.com/HypertextAssassin0273/Projects"><b><i>Sample Project Ideas</i></b></a></li>
   </ul>
 </details>
-
-#
-
+<hr>
 <details>
   <summary><b>Language Skills</b></summary>
   <br>
