@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary style="font-size:2em;"><b>Programming Collection</b></summary>
+  <summary><b>Programming Collection</b></summary>
   <br>
   <ul>
     <li><a href= "https://github.com/HypertextAssassin0273/UVA-Solutions"><b><i>Set of solutions for the Online Judge (UVA Solutions)</i></b></a></li>
