@@ -21,15 +21,22 @@ Here are some ideas to get you started:
 💬 _**Contact me through:**_ [**My Personal Mail**](mailto:shazaibahmed0000@gmail.com) or you can follow me on any of the links provided in [**My Portfolio**](https://hypertextassassin0273.github.io)
 
 ---
-### Programming Collection:
-- [**_Set of solutions for the Online Judge (UVA Solutions)_**](https://github.com/HypertextAssassin0273/UVA-Solutions)
-- [**_Data Structures in C++_**](https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation)
-- [**_General Speed Programming_**](https://github.com/HypertextAssassin0273/Spectre)
-- [**_Useful C Programs_**](https://github.com/HypertextAssassin0273/Console_based_C-Programs)
-- [**_Useful C++ Programs_**](https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs)
-- [**_Win32 based Programs_**](https://github.com/HypertextAssassin0273/Win32_based_programs)
-- [**_SFML based Programs_**](https://github.com/HypertextAssassin0273/SFML_based_programs)
-- [**_C++ Cheat Sheet for ACM ICPC_**](https://github.com/HypertextAssassin0273/cheat-sheet)
+
+<details>
+  <summary><b>Programming Collection:</b></summary>
+  <br>
+  <ul>
+    <li><a href= "https://github.com/HypertextAssassin0273/UVA-Solutions"><b><i>Set of solutions for the Online Judge (UVA Solutions)</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation"><b><i>Data Structures in C++</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/Spectre"><b><i>General Speed Programming</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/Console_based_C-Programs"><b><i>Useful C Programs</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs"><b><i>Useful C++ Programs</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/Win32_based_programs"><b><i>Win32 based Programs</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/SFML_based_programs"><b><i>SFML based Programs</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/cheat-sheet"><b><i>C++ Cheat Sheet for ACM ICPC</i></b></a></li>
+  </ul>
+</details>  
+
 #
 ### Miscellaneous Collection:
 - [**_Important Sites (i.e. Tools, My Learning-Resources)_**](https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites)
