@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 </details>  
 
 #
+
 <details>
   <summary><b>Miscellaneous Collection</b></summary>
   <br>
@@ -50,6 +51,7 @@ Here are some ideas to get you started:
 </details>
 
 #
+
 <details>
   <summary><b>Language Skills</b></summary>
   <br>
