@@ -65,4 +65,3 @@ Here are some ideas to get you started:
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/markdown_64x64.png" />
   </p>  
 </details>
-<br>
