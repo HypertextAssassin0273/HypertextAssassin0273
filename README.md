@@ -68,6 +68,3 @@ Here are some ideas to get you started:
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/markdown_64x64.png" />
   </p>  
 </details>
-
-### Language Skills:
-![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/c_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/cpp_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/html_64x64.png)![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/css_64x64.png) &nbsp; ![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/javascript_64x64.png) ![](https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/markdown_64x64.png)
