@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary><b>Programming Collection:</b></summary>
+  <summary><b>Programming Collection</b></summary>
   <br>
   <ul>
     <li><a href= "https://github.com/HypertextAssassin0273/UVA-Solutions"><b><i>Set of solutions for the Online Judge (UVA Solutions)</i></b></a></li>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 #
 
 <details>
-  <summary><b>Miscellaneous Collection:</b></summary>
+  <summary><b>Miscellaneous Collection</b></summary>
   <br>
   <ul>
     <li><a href="https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites"><b><i>Important Sites (i.e. Tools, My Learning-Resources)</i></b></a></li>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 #
 
 <details>
-  <summary><b>Language Skills:</b></summary>
+  <summary><b>Language Skills</b></summary>
   <br>
   <p>
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/c_64x64.png" />
