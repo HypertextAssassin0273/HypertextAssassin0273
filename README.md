@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🤔 _**I’m looking for help:**_ To use only SFML Library based window with no console application running overtime in background\
 💬 _**Contact me through:**_ [**My Personal Mail**](mailto:shazaibahmed0000@gmail.com) or you can follow me on any of the links provided in [**My Portfolio**](https://hypertextassassin0273.github.io)
 
-<hr>
+---
 <details>
   <summary><b>Programming Collection</b></summary>
   <br>
@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 </details>  
 
 #
-
 <details>
   <summary><b>Miscellaneous Collection</b></summary>
   <br>
@@ -51,7 +50,6 @@ Here are some ideas to get you started:
 </details>
 
 #
-
 <details>
   <summary><b>Language Skills</b></summary>
   <br>
