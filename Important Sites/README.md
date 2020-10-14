@@ -74,6 +74,7 @@
 - **Networking:**
   - [x] [Networking and Socket Programming Tutorial in C (Linux based)](https://www.codeproject.com/Articles/586000/Networking-and-Socket-programming-tutorial-in-C)
 #
+<strong>Goto: <a href="#main-topics">Main Topics</a></strong>
 <br>
 <br>
 <br>
@@ -90,6 +91,7 @@
 - **Others:**
     - [x] [Icons by FontAwesome (CSS/JavaScript)](https://fontawesome.com/v4.7.0/icons)
 #
+<strong>Goto: <a href="#main-topics">Main Topics</a></strong>
 <br>
 <br>
 <br>
@@ -110,3 +112,5 @@
 - **Amazon Affiliate Website:**
     - [x] [Tutorial for Creating Amazon Affiliate Website (Hindi/Urdu)](https://www.youtube.com/playlist?list=PLNh2fM2PO719EXwlFxfAGzVw2cGEl3xoC)
 #
+<strong>Goto: <a href="#main-topics">Main Topics</a></strong>
+
