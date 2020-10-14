@@ -16,8 +16,19 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-#
 ### Git/GitHub Material
 - **Markdown Language:**
     - [x] [Basic Writing & Formatting Syntax (Markdown)](https://docs.github.com/en/enterprise/2.18/user/github/writing-on-github/basic-writing-and-formatting-syntax)
@@ -41,8 +52,19 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-#
 ### Programming Material
 - **C Language:**
     - [X] [Learning C (Saurabh Shukla, Hindi/Urdu)](https://www.youtube.com/user/saurabhexponent1/playlists?view=50&sort=dd&shelf_id=2)
@@ -87,8 +109,13 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-#
 ### Web Development
 - **Main Content:**
     - [x] [W3School-Learn anything in web development](https://www.w3schools.com)
@@ -117,7 +144,6 @@
 <br>
 <br>
 
-#
 ### Miscellaneous Material
 - **Multi-Cloud Networking:**
     - [x] [Multi-Cloud Networking Guidelines (Aviatrix)](https://community.aviatrix.com/t/y4hh4ml/ace-associate-self-paced-learning-guidelines)
