@@ -1,7 +1,7 @@
 <h2>Main Topics:</h2>
 <h3>
     <ol>
-        <li><a href="Git-GitHub-Material.md">Git/GitHub Material</a></li>
+        <li><a href="#gitgithub-material-">Git/GitHub Material</a></li>
         <br>
         <li><a href="Programming-Material.md">Programming Material</a></li>
         <br>
