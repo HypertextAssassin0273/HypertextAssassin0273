@@ -30,7 +30,9 @@
   - [x] [Windows API/ Win32 Application Tutorial in C++ (Visual Studio)](https://www.xoax.net/cpp/crs/win32/index.php)
   - [x] [Learning Windows API/ Win32 Application in C++](https://www.youtube.com/playlist?list=PLWzp0Bbyy_3i750dsUj7yq4JrPOIUR_NK)
 - **Assembly Language:**
-  - [x] [Assembly Language for x86 Processors (Kip Irvine, Official Website)](http://www.asmirvine.com)  
+  - [x] [Assembly Language for x86 Processors (Kip Irvine, Official Website)](http://www.asmirvine.com)
+- **Multi-Threading:**
+  - [x] [Multi-Threading in C (POSIX style)](https://softpixel.com/~cwright/programming/threads/threads.c.php)
 #
 ### Web Development:-
 - [x] [W3School-Learn anything in web development](https://www.w3schools.com)
