@@ -3,11 +3,11 @@
     <ol>
         <li><a href="#gitgithub-material-">Git/GitHub Material</a></li>
         <br>
-        <li><a href="Programming-Material.md">Programming Material</a></li>
+        <li><a href="#programming-material-">Programming Material</a></li>
         <br>
-        <li><a href="Web-Development.md">Web Development</a></li>
+        <li><a href="#web-development-">Web Development</a></li>
         <br>
-        <li><a href="Miscellaneous-Material.md">Miscellaneous Material</a></li>
+        <li><a href="#miscellaneous-material-">Miscellaneous Material</a></li>
     </ol> 
 <h3>
 <br>
