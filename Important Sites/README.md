@@ -1,13 +1,13 @@
-<h2>Main Topics:</h2>
+<h2>Main Topics</h2>
 <h3>
     <ol>
-        <li><a href="#gitgithub-material-">Git/GitHub Material</a></li>
+        <li><a href="#gitgithub-material">Git/GitHub Material</a></li>
         <br>
-        <li><a href="#programming-material-">Programming Material</a></li>
+        <li><a href="#programming-material">Programming Material</a></li>
         <br>
-        <li><a href="#web-development-">Web Development</a></li>
+        <li><a href="#web-development">Web Development</a></li>
         <br>
-        <li><a href="#miscellaneous-material-">Miscellaneous Material</a></li>
+        <li><a href="#miscellaneous-material">Miscellaneous Material</a></li>
     </ol> 
 <h3>
 <br>
@@ -18,7 +18,7 @@
 <br>
 
 #
-### Git/GitHub Material:-
+### Git/GitHub Material
 - **Markdown Language:**
     - [x] [Basic Writing & Formatting Syntax (Markdown)](https://docs.github.com/en/enterprise/2.18/user/github/writing-on-github/basic-writing-and-formatting-syntax)
     - [x] [Github Syntax Guide (Markdown)](https://guides.github.com/features/mastering-markdown)
@@ -42,7 +42,7 @@
 <br>
 
 #
-### Programming Material:-
+### Programming Material
 - **C Language:**
     - [X] [Learning C (Saurabh Shukla, Hindi/Urdu)](https://www.youtube.com/user/saurabhexponent1/playlists?view=50&sort=dd&shelf_id=2)
     - [x] [Function Pointers in C Struct](https://www.codeproject.com/Tips/800474/Function-Pointer-in-C-Struct)
@@ -81,7 +81,7 @@
 <br>
 
 #
-### Web Development:-
+### Web Development
 - **Main Content:**
     - [x] [W3School-Learn anything in web development](https://www.w3schools.com)
     - [x] [Useful Code Snippets (HTML/CSS/JavaScript)](https://www.w3schools.com/howto/default.asp)
@@ -97,7 +97,7 @@
 <br>
 
 #
-### Miscellaneous Material:-
+### Miscellaneous Material
 - **Multi-Cloud Networking:**
     - [x] [Multi-Cloud Networking Guidelines (Aviatrix)](https://community.aviatrix.com/t/y4hh4ml/ace-associate-self-paced-learning-guidelines)
     - [x] [Multi-Cloud Network Architecture-MCNA (Aviatrix)](https://www.youtube.com/playlist?list=PLS_Z06KvSDsa_ZKIUwgiQb_mSGQNMfcnj)
