@@ -1,4 +1,15 @@
-### Git/GitHub Material:-
+<h3>
+    <ol>
+        <li><a href="Git-GitHub-Material.md">Git/GitHub Material</a></li>
+        <br>
+        <li><a href="Programming-Material.md">Programming Material</a></li>
+        <br>
+        <li><a href="Web-Development.md">Web Development</a></li>
+        <br>
+        <li><a href="Miscellaneous-Material.md">Miscellaneous Material</a></li>
+    </ol> 
+<h3>
+    
 - **Markdown Language:**
     - [x] [Basic Writing & Formatting Syntax (Markdown)](https://docs.github.com/en/enterprise/2.18/user/github/writing-on-github/basic-writing-and-formatting-syntax)
     - [x] [Github Syntax Guide (Markdown)](https://guides.github.com/features/mastering-markdown)
@@ -37,17 +48,18 @@
   - [x] [Networking and Socket Programming Tutorial in C (Linux based)](https://www.codeproject.com/Articles/586000/Networking-and-Socket-programming-tutorial-in-C)
 #
 ### Web Development:-
-- [x] [W3School-Learn anything in web development](https://www.w3schools.com)
-- [x] [Useful Code Snippets (HTML/CSS/JavaScript)](https://www.w3schools.com/howto/default.asp)
-- [x] [Icons by FontAwesome (CSS/JavaScript)](https://fontawesome.com/v4.7.0/icons)
-#
-### Microsoft Office:
-- [x] [Microsoft Office Complete Tutorial](https://www.youtube.com/c/KevinStratvert/playlists?view=50&flow=grid&shelf_id=15)
-- [x] [PowerPoint Presentation Expert](https://www.youtube.com/channel/UCaEPKLsvtAZBtGtG5ZKwVWg)
-#
-### Multi-Cloud Networking:
-- [x] [Multi-Cloud Networking Guidelines (Aviatrix)](https://community.aviatrix.com/t/y4hh4ml/ace-associate-self-paced-learning-guidelines)
-- [x] [Multi-Cloud Network Architecture-MCNA (Aviatrix)](https://www.youtube.com/playlist?list=PLS_Z06KvSDsa_ZKIUwgiQb_mSGQNMfcnj)
+- **Main Content:**
+    - [x] [W3School-Learn anything in web development](https://www.w3schools.com)
+    - [x] [Useful Code Snippets (HTML/CSS/JavaScript)](https://www.w3schools.com/howto/default.asp)
+- **Others:**
+    - [x] [Icons by FontAwesome (CSS/JavaScript)](https://fontawesome.com/v4.7.0/icons)
 #
 ### Miscellaneous Material:-
-- [x] [Tutorial for Creating Amazon Affiliate Website (Hindi/Urdu)](https://www.youtube.com/playlist?list=PLNh2fM2PO719EXwlFxfAGzVw2cGEl3xoC)
+- **Multi-Cloud Networking:**
+    - [x] [Multi-Cloud Networking Guidelines (Aviatrix)](https://community.aviatrix.com/t/y4hh4ml/ace-associate-self-paced-learning-guidelines)
+    - [x] [Multi-Cloud Network Architecture-MCNA (Aviatrix)](https://www.youtube.com/playlist?list=PLS_Z06KvSDsa_ZKIUwgiQb_mSGQNMfcnj)
+- **Microsoft Office:**
+    - [x] [Microsoft Office Complete Tutorial](https://www.youtube.com/c/KevinStratvert/playlists?view=50&flow=grid&shelf_id=15)
+    - [x] [PowerPoint Presentation Expert](https://www.youtube.com/channel/UCaEPKLsvtAZBtGtG5ZKwVWg)
+- **Amazon Affiliate Website:**
+    - [x] [Tutorial for Creating Amazon Affiliate Website (Hindi/Urdu)](https://www.youtube.com/playlist?list=PLNh2fM2PO719EXwlFxfAGzVw2cGEl3xoC)
