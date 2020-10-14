@@ -33,6 +33,8 @@
   - [x] [Assembly Language for x86 Processors (Kip Irvine, Official Website)](http://www.asmirvine.com)
 - **Multi-Threading:**
   - [x] [Multi-Threading in C (POSIX style)](https://softpixel.com/~cwright/programming/threads/threads.c.php)
+- **Networking:**
+  - [x] [Networking and Socket Programming Tutorial in C (Linux based)](https://www.codeproject.com/Articles/586000/Networking-and-Socket-programming-tutorial-in-C)
 #
 ### Web Development:-
 - [x] [W3School-Learn anything in web development](https://www.w3schools.com)
