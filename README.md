@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p><a href="#"><img src=https://komarev.com/ghpvc/?username=HypertextAssassin0273 alt=HypertextAssassin0273/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src=https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/particles_background.png /></a></p>
 
-🔭 _**I’m currently working on:**_ [**2D Game (OOP Project)**](https://github.com/users/HypertextAssassin0273/projects/3)\
+🔭 _**I’m currently working on:**_ [**SwiFT Store Management (OOP_Project)**](https://github.com/users/HypertextAssassin0273/projects/3)\
 📚 _**I’m currently learning:**_ C++11/14/17, SFML Library in C++, javascript for web development & Assembly language\
 🤔 _**I’m looking for help:**_ To use only SFML Library based window with no console application running overtime in background\
 💬 _**Contact me through:**_ [**My Personal Mail**](mailto:shazaibahmed0000@gmail.com) or you can follow me on any of the links provided in [**My Portfolio**](https://hypertextassassin0273.github.io)
