@@ -25,14 +25,14 @@ Here are some ideas to get you started:
   <summary><b>Programming Collection</b></summary>
   <br>
   <ul>
-    <li><a href= "https://github.com/HypertextAssassin0273/UVA-Solutions"><b><i>Set of solutions for the Online Judge (UVA Solutions)</i></b></a></li>
-    <li><a href= "https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation"><b><i>Data Structures in C++</i></b></a></li>
-    <li><a href= "https://github.com/HypertextAssassin0273/Spectre"><b><i>General Speed Programming</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/Console_based_C-Programs"><b><i>Useful C Programs</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs"><b><i>Useful C++ Programs</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/Win32_based_programs"><b><i>Win32 based Programs</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/SFML_based_programs"><b><i>SFML based Programs</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/cheat-sheet"><b><i>C++ Cheat Sheet for ACM ICPC</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/Spectre"><b><i>General Speed Programming</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/UVA-Solutions"><b><i>Set of solutions for the Online Judge (UVA Solutions)</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation"><b><i>Data Structures in C++</i></b></a></li>
   </ul>
 </details>  
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 #
 <details>
-  <summary><b>Programming Language Skills</b></summary>
+  <summary><b>Programming Language & Other Skills</b></summary>
   <br>
   <p>
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/c_64x64.png" />
@@ -61,5 +61,7 @@ Here are some ideas to get you started:
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/css_64x64.png" />
     &nbsp;&nbsp;
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/javascript_64x64.png" />
+    &nbsp;&nbsp;
+    <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/markdown_64x64.png" />
   </p>  
 </details>
