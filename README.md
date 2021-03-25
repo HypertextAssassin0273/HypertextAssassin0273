@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔭 _**I’m currently working on:**_ [**Networks in Deep Learning (DS_Project)**](https://github.com/users/HypertextAssassin0273/projects/3)\
 📚 _**I’m currently learning:**_ Data Structures, Advance Functional Programming using C++11/14/17, Javascript & Dynamic websites\
 🤔 _**I’m looking for help:**_ Using base pointer to trigger multiple networking data structures\
-💬 _**Contact me through:**_ [**My Personal Mail**](mailto:shazaibahmed0000@gmail.com) or you can follow me on any of the links provided in [**My Portfolio**](https://hypertextassassin0273.github.io)
+💬 _**Contact me through:**_ [**My Personal Mail**](mailto:shazaibahmed0000@gmail.com) or you can follow me on any of the social links provided in [**My Portfolio**](https://hypertextassassin0273.github.io)
 
 ---
 <details>
