@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 #
 <details>
-  <summary><b>Programming Language & Other Skills</b></summary>
+  <summary><b>Programming Languages & Other Skills</b></summary>
   <br>
   <p>
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/c_64x64.png" />
