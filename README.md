@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <li><a href= "https://github.com/HypertextAssassin0273/cheat-sheet"><b><i>C++ Cheat Sheet for ACM ICPC</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/Spectre"><b><i>General Speed Programming</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/UVA-Solutions"><b><i>Set of solutions for the Online Judge (UVA Solutions)</i></b></a></li>
-    <li><a href= "https://github.com/HypertextAssassin0273/Mike-Mirzayanov---DS-And-Algo-Implementation"><b><i>Data Structures in C++</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp"><b><i>Data Structures in C++</i></b></a></li>
   </ul>
 </details>  
 
