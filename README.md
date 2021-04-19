@@ -25,12 +25,11 @@ Here are some ideas to get you started:
   <summary><b>Programming Collection</b></summary>
   <br>
   <ul>
-    <li><a href= "https://github.com/HypertextAssassin0273/Console_based_C-Programs"><b><i>Useful C Programs</i></b></a></li>
-    <li><a href= "https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs"><b><i>Useful C++ Programs</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/Console_based_C-Programs"><b><i>C Programs (Programming Fundamentals)</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/Console_based_Cpp-Programs"><b><i>C++ Programs (OOP)</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/Win32_based_programs"><b><i>Win32 based Programs</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/SFML_based_programs"><b><i>SFML based Programs</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/cheat-sheet"><b><i>C++ Cheat Sheet for ACM ICPC</i></b></a></li>
-    <li><a href= "https://github.com/HypertextAssassin0273/Spectre"><b><i>General Speed Programming</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp"><b><i>Data Structures in C++</i></b></a></li>
   </ul>
 </details>  
