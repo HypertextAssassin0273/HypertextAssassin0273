@@ -77,7 +77,7 @@
     - [X] [Complete C++ Tutorial](http://www.cplusplus.com/doc/tutorial) (Additional: [Templates](http://www.cplusplus.com/doc/oldtutorial/templates) - [Namespaces](http://www.cplusplus.com/doc/oldtutorial/namespaces) - [Type Casting](http://www.cplusplus.com/doc/oldtutorial/typecasting) )
     - [x] [Learning Modern & Advance Cpp (Bo Qian, C++11)](https://www.youtube.com/user/BoQianTheProgrammer/playlists)
     - [x] [Learning Modern & Advance Cpp (Rupesh Yadav, C++11/C++14)](https://www.youtube.com/c/CppNuts/playlists)
-    - [x] [C++ Boost Library](https://www.boost.org/doc/libs/1_76_0)
+    - [x] [C++ Boost Library (complete documentation)](https://www.boost.org/doc/libs/1_76_0)
 #
 - **Data Structures:**
     - [X] [Learning Data Structures (Saurabh Shukla, Hindi/Urdu)](https://www.youtube.com/channel/UCu4ztYtW-Bg1KIfcLAULtVQ/playlists)
