@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 _**I’m currently working on:**_ Efficient Multi-Atrribute Tree Operations (with AVL Tree)\
 📚 _**I’m currently learning:**_ Operating Systems, Concurrent Programming, Advance Functional Programming using C++11/14, Javascript & Dynamic websites\
-🤔 _**I’m looking for help:**_ For using same/shared memory for Efficient Multi-Atrribute Search with AVL Tree\
+🤔 _**I’m looking for help:**_ To create reverse mechanism of std::shared_ptr i.e. to deallocate the current pointed memory if any pointer (pointing the same memory) goes out of the scope\
 💬 _**Contact me through:**_ [**My Personal Mail**](mailto:shazaibahmed0000@gmail.com) or you can follow me on any of the social links provided in [**My Portfolio**](https://hypertextassassin0273.github.io)
 
 ---
