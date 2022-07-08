@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     <li><a href= "https://github.com/HypertextAssassin0273/cheat-sheet"><b><i>C++ Cheat Sheet for ACM ICPC</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp"><b><i>Data Structures in C++</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/Learn_JS"><b><i>Learn Complete Modern JavaScript</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/Learn_Full_Stack_Web_Development "><b><i>Learn Full Stack Web Development </i></b></a></li>
   </ul>
 </details>  
 
