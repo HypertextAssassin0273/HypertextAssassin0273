@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <li><a href= "https://github.com/HypertextAssassin0273/Console_based_C_Programs"><b><i>Useful Programs in C</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/Win32_based_Cpp_Programs"><b><i>Win32 based Programs in C++</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/SFML_based_Cpp_Programs"><b><i>SFML based Programs in C++</i></b></a></li>
-    <li><a href= "https://github.com/HypertextAssassin0273/Learn_Cpp_with_OOP"><b><i>Object Oriented Programming in C++</i></b></a></li>
+    <li><a href= "https://github.com/HypertextAssassin0273/Object_Oriented_Programming_in_Cpp"><b><i>Object Oriented Programming in C++</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/cheat-sheet"><b><i>C++ Cheat Sheet for ACM ICPC</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp"><b><i>Data Structures in C++</i></b></a></li>
     <li><a href= "https://github.com/HypertextAssassin0273/Learn_JS"><b><i>Learn Complete Modern JavaScript</i></b></a></li>
