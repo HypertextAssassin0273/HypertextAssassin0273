@@ -57,21 +57,18 @@ Here are some ideas to get you started:
   <br>
   <p>
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/c_64x64.png" />
-    &nbsp;
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/cpp_64x64.png" />
-    &nbsp;
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/csharp_64x64.png" />
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/python_64x64.png" />
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/html_64x64.png" />
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/css_64x64.png" />
-    &nbsp;&nbsp;
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/javascript_64x64.png" />
-    &nbsp;&nbsp;
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/php_64x64.png" />
-    &nbsp;&nbsp;
-    <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/mysql_64x64.png" />
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/mongodb_64x64.png" />
+    <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/mysql_64x64.png" />
+    <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/vscode_64x64.png" />
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/ubuntu_64x64.png" />
+    <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/git_64x64.png" />
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/markdown_64x64.png" />
   </p>  
 </details>
