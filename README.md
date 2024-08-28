@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 
 <p><a href="#"><img src=https://komarev.com/ghpvc/?username=HypertextAssassin0273 alt=HypertextAssassin0273/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src=https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/particles_background.png /></a></p>
 
-🔭 _**I’m currently working on:**_ Operating Systems Project & [**DataBase Management Website Project**](https://github.com/HypertextAssassin0273/Electronic_Items_Market_Viewer_System-DB_Project) \
-👉 _**Recently completed mega project:**_ [**Efficient Multi-Atrribute Tree Operations (with AVL Tree)**](https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp/tree/main/MY_DS_LIBRARY/Special_Structures)\
-📚 _**I’m currently learning:**_ Database Management System, Operating Systems, Concurrent Programming, Advance Functional Programming using C++11/14 & [**Modern & Advance Javascript**](https://github.com/HypertextAssassin0273/Learn_JS) for Dynamic websites\
-🤔 _**I’m looking for help:**_ To create reverse mechanism of std::shared_ptr i.e. to deallocate the current pointed memory if any pointer (pointing the same memory) goes out of the scope\
-💬 _**Contact me through:**_ [**My Personal Mail**](mailto:shazaibahmed0000@gmail.com) or you can follow me on any of the social links provided in [**My Portfolio**](https://hypertextassassin0273.github.io)
+🔭 _**I’m currently working on:**_ PDC, DevOps & Data Science Projects \
+👉 _**Recently completed (mega) projects:**_ [**Efficient Multi-Attribute Tree Operations**](https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp/tree/main/MY_DS_LIBRARY/Special_Structures), [**POS Cashier DataBase Management System**](https://github.com/HypertextAssassin0273/POS_Cashier_System-SE_Project)\
+📚 _**I’m currently learning:**_ [**Modern & Advanced Javascript**](https://github.com/HypertextAssassin0273/Learn_JS), DevOps, Cloud Computing, Parallel and Distributed Computing, Data Science, Machine Learning & Design and Analysis of Algorithms \
+🤔 _**I’m looking for help:**_ \
+i)&nbsp; to gather ideas for product-based FYP on any graph (e.g. social networking) problem \
+ii) to create a reverse mechanism of std::shared_ptr i.e. to deallocate the current pointed memory if any of the referencing pointers goes out of the scope\
+💬 _**Contact me through:**_ [**my personal mail**](mailto:shazaibahmed0000@gmail.com) or you can follow me on any of the social links provided in [**my portfolio**](https://hypertextassassin0273.github.io)
 
 ---
 <details>
@@ -66,6 +68,8 @@ Here are some ideas to get you started:
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/css_64x64.png" />
     &nbsp;&nbsp;
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/javascript_64x64.png" />
+    &nbsp;&nbsp;
+    <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/php_64x64.png" />
     &nbsp;&nbsp;
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/markdown_64x64.png" />
   </p>  
