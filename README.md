@@ -69,6 +69,9 @@ Here are some ideas to get you started:
     &nbsp;&nbsp;
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/php_64x64.png" />
     &nbsp;&nbsp;
+    <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/mysql_64x64.png" />
+    <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/mongodb_64x64.png" />
+    <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/ubuntu_64x64.png" />
     <img src= "https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/markdown_64x64.png" />
   </p>  
 </details>
