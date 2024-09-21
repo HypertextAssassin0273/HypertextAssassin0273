@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </details>
 
 #
-<details>
+<details open>
   <summary><b>My Programming Languages & Other Skills</b></summary>
   <br>
   <p>
