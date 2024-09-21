@@ -146,7 +146,7 @@
 <br>
 <br>
 
-### Miscellaneous Material
+### Miscellaneous
 - **Multi-Cloud Networking:**
     - [x] [Multi-Cloud Networking Guidelines (Aviatrix)](https://community.aviatrix.com/t/y4hh4ml/ace-associate-self-paced-learning-guidelines)
     - [x] [Multi-Cloud Network Architecture-MCNA (Aviatrix)](https://www.youtube.com/playlist?list=PLS_Z06KvSDsa_ZKIUwgiQb_mSGQNMfcnj)
