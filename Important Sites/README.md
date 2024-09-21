@@ -8,7 +8,7 @@
             <br>
             <li><a href="#web-development">Web Development</a></li>
             <br>
-            <li><a href="#miscellaneous-material">Miscellaneous Material</a></li>
+            <li><a href="#miscellaneous">Miscellaneous</a></li>
         </ol>
     <h3>
     <br>
