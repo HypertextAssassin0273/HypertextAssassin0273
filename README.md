@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <summary><b>Other Useful Material</b></summary>
   <br>
   <ul>
-    <li><a href="https://github.com/HypertextAssassin0273/HypertextAssassin0273/tree/master/Important%20Sites"><b><i>Learning Resources & Guides</i></b></a></li>
+    <li><a href="/Important%20Sites"><b><i>Learning Resources & Guides</i></b></a></li>
     <li><a href="https://github.com/HypertextAssassin0273/Unique_PowerPoint_Presentations"><b><i>Unique PowerPoint Presentations</i></b></a></li>
     <li><a href="https://github.com/HypertextAssassin0273/Free-Educational-Resources"><b><i></i>Free Educational Resources</b></a></li>
     <li><a href="https://github.com/HypertextAssassin0273/Projects"><b><i>Sample Project Ideas</i></b></a></li>
