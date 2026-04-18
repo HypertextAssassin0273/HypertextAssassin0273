@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ---
 <details>
-  <summary><b>Some Important Repositories</b></a></summary>
+  <summary><b>Some Important Repositories</b></summary>
   <br>
   <ul>
     <li><a href= "https://github.com/HypertextAssassin0273/Learn_Data_Science"><b><i>Learn Data Science </i></b></a></li>
@@ -48,6 +48,15 @@ Here are some ideas to get you started:
     <li><a href="https://github.com/HypertextAssassin0273/Unique_PowerPoint_Presentations"><b><i>Unique PowerPoint Presentations</i></b></a></li>
     <li><a href="https://github.com/HypertextAssassin0273/Projects"><b><i>Sample Project Ideas</i></b></a></li>
   </ul>
+</details>
+
+#
+<details>
+  <summary><b>Engineering Case Studies (Deep Dive)</b></summary>
+  <br>
+  <p>
+    &nbsp;&nbsp;👉 <a href="./CASE_STUDIES.md"><b><i>Unpack the architecture, problem statement, engineering decisions, and system tradeoffs of my core projects.</i></b></a><br><br>
+  </p>
 </details>
 
 #
