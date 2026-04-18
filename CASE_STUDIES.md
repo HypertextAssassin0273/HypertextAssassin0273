@@ -87,6 +87,7 @@ Designed and implemented a **Booking Management System (BMS)** focused on:
 
 <details>
 <summary><i><kbd><kbd><b>Google Custom Search System — Controlled Search UX & API Orchestration</b></kbd></kbd></i></summary>
+<br>
 
 **Reference:**
 https://github.com/HypertextAssassin0273/google-custom-search
@@ -155,6 +156,7 @@ Built a **custom search interface layer** that:
 
 <details>
 <summary><i><kbd><kbd><b>Configuration Management with Ansible — Reproducible Infrastructure</b></kbd></kbd></i></summary>
+<br>
 
 **Reference:**
 https://github.com/HypertextAssassin0273/Configuration_Management_with_Ansible
@@ -291,6 +293,7 @@ Trigger → Data Processing → Conditional Logic → Action → Logging/Output
 
 <details>
 <summary><i><kbd><kbd><b>Automated Deployment System (Flask Apps)</b></kbd></kbd></i></summary>
+<br>
 
 **Reference:**
 https://github.com/HypertextAssassin0273/flask-app
@@ -395,6 +398,7 @@ Introduced a **dual-CDN strategy**:
 
 <details>
 <summary><i><kbd><kbd><b>Indexed Struct — Multi-Attribute Access Layer on AVL Trees</b></kbd></kbd></i></summary>
+<br>
 
 **Reference:**
 https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp/blob/main/MY_DS_LIBRARY/Special_Structures/Indexed_Struct.hpp
@@ -450,6 +454,7 @@ Built an abstraction over AVL trees to support:
 
 <details>
 <summary><i><kbd><kbd><b>Optimized Multi-Attribute AVL System — Research-Based Data Structure</b></kbd></kbd></i></summary>
+<br>
 
 **Reference:**
 https://hypertextassassin0273.github.io/assets/img/projects/DS-R-Project_Report.pdf
@@ -505,6 +510,7 @@ Designed a **unified structure** that:
 
 <details>
 <summary><i><kbd><kbd><b>Custom Vector & Memory Behavior Exploration</b></kbd></kbd></i></summary>
+<br>
 
 **References:**
 - https://hypertextassassin0273.github.io/blog-posts/2021-03-25-optimized-minimal-custom-vector-container/
@@ -540,6 +546,7 @@ Designed a **unified structure** that:
 
 <details>
 <summary><i><kbd><kbd><b>Segmented Vector — Cache-Aware Dynamic Container Design</b></kbd></kbd></i></summary>
+<br>
 
 **References:**
 - https://hypertextassassin0273.github.io/blog-posts/2021-08-18-custom-segmented-vector-container/
