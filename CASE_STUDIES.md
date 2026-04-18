@@ -541,9 +541,9 @@ Designed a **unified structure** that:
 <details>
 <summary><i><kbd><kbd><b>Segmented Vector — Cache-Aware Dynamic Container Design</b></kbd></kbd></i></summary>
 
-**Reference:** https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp/blob/main/MY_DS_LIBRARY/Contiguous_Structures/Segmented_Vector.hpp
-
-**Blog:** https://hypertextassassin0273.github.io/blog-posts/2021-08-18-custom-segmented-vector-container/
+**References:**
+- https://hypertextassassin0273.github.io/blog-posts/2021-08-18-custom-segmented-vector-container/
+- https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp/blob/main/MY_DS_LIBRARY/Contiguous_Structures/Segmented_Vector.hpp
 
 #
 
@@ -578,7 +578,6 @@ Implemented a **segmented contiguous structure**:
 
 ### Tradeoffs
 
-<ul>
   <table>
     <thead>
       <tr>
@@ -601,7 +600,6 @@ Implemented a **segmented contiguous structure**:
       </tr>
     </tbody>
   </table>
-</ul>
 
 #
 
