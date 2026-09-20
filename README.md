@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 
 <p><a href="#"><img src=https://komarev.com/ghpvc/?username=HypertextAssassin0273 alt=HypertextAssassin0273/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src=https://github.com/HypertextAssassin0273/HypertextAssassin0273/blob/master/logos/particles_background.png /></a></p>
 
-🔭 _**I’m currently working on:**_ n8n workflows/automation, tkinter based desktop application \
-👉 _**Recently completed (mega) projects:**_ [**Efficient Multi-Attribute Tree Operations**](https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp/tree/main/MY_DS_LIBRARY/Special_Structures), [**Google Custom Search App**](https://github.com/HypertextAssassin0273/google-custom-search), **Booking Management System** with quick invoice artifact generators\
-📚 _**I’m currently learning:**_ [**Modern & Advanced Javascript**](https://github.com/HypertextAssassin0273/Learn_JS), DevOps, Cloud Computing, Parallel and Distributed Computing, Data Science, Machine Learning & Design and Analysis of Algorithms \
-🤔 _**I’m looking for help:**_ to gather ideas for product-based FYP on any graph-related (e.g. social networking) problem & also to create a reverse mechanism of std::shared_ptr i.e. to deallocate the current pointed memory if any of the referencing pointers go out of the scope\
-💬 _**Contact me through:**_ [**my personal mail**](mailto:shazaibahmed0000@gmail.com) or you can follow me on any of the social links provided in [**my portfolio**](https://hypertextassassin0273.github.io)
+🔭 _**I’m currently working on:**_ n8n workflows/automation (on-page SEO maintainer, etc), tkinter based desktop application (lightweight pdf-viewer workspace tool) \
+👉 _**Recently completed projects:**_ **Booking Management System** with quick invoice artifact generators, **Free Hosting Web Solution with Serverless Backend** \
+👉 _**Some unique completed projects:**_ [**Efficient Multi-Attribute Tree Operations**](https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp/tree/main/MY_DS_LIBRARY/Special_Structures), [**Google Custom Search App**](https://github.com/HypertextAssassin0273/google-custom-search) \
+📚 _**I’m currently learning:**_ Applied & Advance DevOps, Advance Automation (RPA etc), Cloud Computing (Hybrid Platform Solutions), AI Engineering (Agentic Harnesses, etc) & Machine Learning & Model Training (SLM/MLM) \
+🤔 _**I’m looking for help:**_ to gather ideas for [lovable.dev](https://lovable.dev) exact clone strategy, optimized for my use cases, like rapid prototyping (starting from static page web apps), chain quick ideas brainstorming, using Gemini/ChatGPT web chats to power docs crafting like session sharing, etc \
+💬 _**Contact me through:**_ [**my work mail**](mailto:shahzaibkhan27011999@gmail.com) or you can follow me on any of the social links provided in [**my portfolio**](https://hypertextassassin0273.github.io)
 
 ---
 <details>
