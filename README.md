@@ -5,28 +5,31 @@
 </p>
 
 # Shahzaib Khan
-**Software Engineer | Full-Stack, Systems & DevOps Infrastructure**
+**Software Engineer | Systems, Cloud Infrastructure & Full-Stack**
 
-Building high-reliability backend architectures, automated CI/CD deployment pipelines, and low-latency system utilities. Focused on clean domain boundaries, containerized infrastructure, and production software design.
-
----
-
-### 🚀 Core Engineering Projects
-
-* **[Booking Management System (BMS)](./CASE_STUDIES.md)** — Modular full-stack operations management platform built with PHP and MySQL, featuring role-based access control, strict relational transactional integrity, and automated PDF invoice generation.
-* **[Serverless Web & Automation Solution (Abbas Brothers)](https://hypertextassassin0273.github.io)** — Production edge architecture powered by Cloudflare Workers, edge DNS via GoDaddy, static CDN delivery, and Google Apps Script pipelines for live catalog synchronization.
-* **[Google Custom Search Application](https://github.com/HypertextAssassin0273/google-custom-search)** — Self-hosted search ingestion engine deployed on a configured Linux VPS environment, integrating Google Search APIs with a lightweight Flask backend and reverse-proxy routing.
-* **[High-Performance C++ Data Structures](https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp/tree/main/MY_DS_LIBRARY/Special_Structures)** — Open-source systems library implementing cache-friendly segmented vectors and efficient multi-attribute hierarchical search trees.
+Engineering modular backend services, automated cloud-native pipelines, and deterministic systems. Bridging low-level architecture in C++ and Python with production DevOps across Linux, Docker, Ansible, and Cloudflare edge runtimes.
 
 ---
 
-### 🔍 Engineering Case Studies
+### 🚀 Flagship Engineering Projects
+
+* **[QR Attendance (Class Check)](https://github.com/HypertextAssassin0273)** — Full-stack, serverless attendance verification platform built with TanStack Start (Nitro SSR), React, TypeScript, and Supabase (PostgreSQL). Implements geodesic geofencing via the Haversine formula against GPS coordinates, client-side UUID idempotency tokens, and validated server RPCs (`createServerFn`) to prevent spoofing and ensure audit-safe state.
+* **[Abbas Brothers - Turnkey Industrial Platform](https://hypertextassassin0273.github.io)** — Decoupled edge architecture built using native Web Components, Vite, GitHub Actions CI/CD, and Cloudflare Pages/Workers. Features an automated serverless catalog pipeline powered by Google Apps Script, Sheets, and Drive delivering live JSON feeds with edge security controls.
+* **[In-Memory Indexing & Custom Containers](https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp/tree/main/MY_DS_LIBRARY/Special_Structures)** — High-performance algorithmic C++ library featuring cache-friendly segmented vectors and an in-memory indexing layer over balanced AVL trees. Achieves $O(\log n)$ lookup complexity across composite dimensions without redundant data cloning; earned over 115 GitHub stars.
+* **[Booking Management System (BMS)](./CASE_STUDIES.md)** — Modular enterprise operations platform written in PHP and MySQL. Decouples business calculation logic from presentation formatting, provides automated deterministic invoice artifact generation, and enforces strict relational referential integrity.
+* **[Configuration Management & Infrastructure as Code](https://github.com/HypertextAssassin0273)** — Modular Ansible framework executing idempotent playbooks for automated Linux server provisioning, multi-environment drift elimination, and standardized package orchestration.
+* **[Automated Deployment Daemon & API Ingestion](https://github.com/HypertextAssassin0273/google-custom-search)** — Script-driven deployment architecture executing single-command updates on live Linux VPS nodes, secured with systemd daemon processes, Nginx reverse proxy routing, automated SSL, and a decoupled Flask backend.
+* **[Developer Web Tools Dashboard](https://github.com/HypertextAssassin0273)** — Serverless, local-first utility workspace built with React and Tailwind CSS, featuring automated GitHub Pages deployment pipelines and GitHub API integrations.
+
+---
+
+### 🔍 Architectural Case Studies
 
 <details open>
-  <summary><b>Architectural Deep Dives</b></summary>
+  <summary><b>Technical Deep Dives & Systems Design</b></summary>
   <br>
   <p>
-    👉 <a href="./CASE_STUDIES.md"><b>Read the technical case studies</b></a> detailing system trade-offs, concurrency models, schema normalizations, and memory layouts across my production codebases.
+    👉 <a href="./CASE_STUDIES.md"><b>Read the engineering case studies</b></a> detailing schema normalizations, concurrency controls, Haversine proximity validation, memory contiguity benchmarks, and failure-mode mitigations across my production deployments.
   </p>
 </details>
 
@@ -34,30 +37,32 @@ Building high-reliability backend architectures, automated CI/CD deployment pipe
 
 ### 🔭 Current Focus & Active Builds
 
-* **Workflow Orchestration & Automation:** Engineering deterministic multi-step pipelines and on-page maintenance bots using n8n and REST/webhook architectures.
-* **Desktop Systems & Memory Footprint:** Implementing local workspace utilities in Python (PyQt/PyMuPDF) optimized for strict memory consumption constraints.
+* **Workflow Orchestration & Automation:** Designing reliable multi-step pipelines, webhook ingress gateways, and on-page maintenance bots using n8n and Linux shell scripts.
+* **Desktop Systems & Memory Footprint:** Implementing local workspace tools in Python (PyQt/PyMuPDF) engineered under strict memory allocation and process lifetime constraints.
+* **Rapid Prototyping & Generative Scaffolding:** Pairing deep systems design with AI-accelerated workflows (Lovable, Cursor, Copilot) to prototype and ship production MVPs rapidly.
 
 ---
 
 ### 🤔 Collaborative Research & Brainstorming
 
-* **Generative App Scaffolding:** Investigating rapid-prototyping workflows and structural cloning strategies for full-stack generative app engines (inspired by [Lovable.dev](https://lovable.dev)).
-* **LLM Tooling & Session Context:** Researching automated documentation crafting, structured brainstorming chains, and conversational state sharing via LLM web sessions.
+* **Generative App Engines:** Investigating architectural cloning strategies and modular runtime boundaries for AI-native full-stack generation platforms (inspired by [Lovable.dev](https://lovable.dev)).
+* **Automated Context Pipelines:** Researching conversational state sharing, structured brainstorming chains, and automated technical documentation generation using LLM orchestration.
 
 ---
 
 ### 🛠️ Technical Proficiencies
 
-* **Frontend & Mobile:** JavaScript (ES6+), TypeScript, React, HTML5, CSS3, Tailwind CSS, Flutter, Dart
-* **Backend & Systems:** Python (Flask, Django), PHP, Node.js, C++, C, RESTful APIs
-* **Databases & Caching:** MySQL, PostgreSQL, MongoDB, Redis
-* **DevOps & Infrastructure:** Ansible, Linux (Ubuntu/Debian), Nginx, Docker, Cloudflare Workers & DNS, GoDaddy DNS, VPS Administration
-* **CI/CD & Deployments:** GitHub Actions, GitLab CI/CD, Vercel, Railway, Git
+* **Languages:** Python, modern C++, TypeScript, JavaScript, PHP, SQL, Bash/Shell, C
+* **Backend & Systems:** REST API Design, Server Functions (RPC), Flask Application Contexts, MVC Architecture, Session Authentication, In-Memory Data Structures
+* **Frontend & Web:** TanStack Start, React, Next.js, Node.js, Vite, Tailwind CSS, Web Components, HTML5, CSS3
+* **DevOps & Cloud:** Linux (Ubuntu), Ansible, Docker, WSL2, systemd, Nginx Reverse Proxy, SSL Automation, Cloudflare Pages/Workers/R2, Multi-Cloud Networking
+* **Databases & Storage:** PostgreSQL (Supabase RLS), MySQL (Indexing & Transactions), MongoDB, Redis
+* **CI/CD & Tooling:** GitHub Actions, GitLab CI/CD, Git, n8n Orchestration, Google Apps Script, Postman, Linux CLI
 
 ---
 
 ### 📬 Connect
 
-* **Email:** [shahzaibkhan27011999@gmail.com](mailto:shahzaibkhan27011999@gmail.com)
-* **Portfolio:** [hypertextassassin0273.github.io](https://hypertextassassin0273.github.io)
+* **Email:** [shahzaib27011999@gmail.com](mailto:shahzaib27011999@gmail.com)
+* **GitHub:** [github.com/HypertextAssassin0273](https://github.com/HypertextAssassin0273)
 * **LinkedIn:** [linkedin.com/in/shahzaibkhan0273](https://linkedin.com/in/shahzaibkhan0273)
